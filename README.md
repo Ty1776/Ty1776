@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Tyler - @Ty1776
 - 👀 I’m interested in learning something new every day! I enjoy learning from others, solving problems, and learning from my mistakes!
-- 🌱 I’m currently in a software development program to start an amazing career in coding!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Full-Stack Software Developer. React JS, JS, HTML, CSS, , NoSQL, Axios, Express, Git
+- 📫 [LinkedIn](https://www.linkedin.com/in/tyler-huntley76/)
 
 <!---
 Ty1776/Ty1776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
